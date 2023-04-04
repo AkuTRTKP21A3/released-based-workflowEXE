@@ -1,6 +1,6 @@
 
 <!--
-    The step and endstep markers will cause this 
+    The step and endstep markers will cause this collision
     introduction content to be hidden once the 
     repository is created off the template
 -->
