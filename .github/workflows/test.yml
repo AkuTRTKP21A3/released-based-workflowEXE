@@ -1,0 +1,13 @@
+name: My first workflow
+on: [push]
+
+jobs:
+  run_command:
+    runs-on:
+    steps:
+      - name: run echo command
+        run: echo "Moro muailma"
+      - name: run multiple commands
+        run: |
+         echo "Moro muailma"
+         echo "Tämä on Aku"
